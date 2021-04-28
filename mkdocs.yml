@@ -1,0 +1,7 @@
+site_name: HUC Archive
+nav:
+  - Home: index.md
+  - Database: database.md
+extra_css: [extra.css]
+markdown_extensions:
+  - markdown.extensions.attr_list
