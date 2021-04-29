@@ -1,4 +1,4 @@
-site_name: HUC Archive
+site_name: HUC Project
 nav:
   - Home: index.md
   - Database: database.md
