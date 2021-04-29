@@ -1,2 +1,2 @@
-# HUC Archive
+# The Havana Urgency Court (HUC) Project
 
