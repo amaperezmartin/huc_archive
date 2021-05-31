@@ -2,14 +2,18 @@
 
 **HUC-DB** is a large relational database including multiple tables with information.
 
-
 This database will serve as a novel collection of tactics of legal repression and legal mobilization in authoritarian contexts.
 It will also provide a blueprint for collection of state-movement discursive contentions informing oppositional identity formation in periods of social upheaval.
 
-
 ## Structure
 
-![image](img/diagram.png){: .center}
+### Compressed
+
+![compressed structure](img/compressed_diagram.png)
+
+### Full
+
+![full structure](img/full_diagram.png)
 
 The database encompasses the following tables:
 
