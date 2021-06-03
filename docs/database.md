@@ -6,7 +6,13 @@ The HUC data were recovered from the Cuban National Archive (ANC) and the Office
 
 ## Structure
 
-![image](img/diagram.png){: .center}
+### Compressed
+
+![compressed structure](img/compressed_diagram.png)
+
+### Full
+
+![full structure](img/full_diagram.png)
 
 This database is a unique resource for researchers and academics interested in tactics of legal repression and legal mobilization in authoritarian contexts. It encompasses the following tables:
 
